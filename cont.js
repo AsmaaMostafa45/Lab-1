@@ -1,2 +1,2 @@
 // welcome 
-alert ('welcome to lab 1')
+alert ('welcome  in lab 1')
